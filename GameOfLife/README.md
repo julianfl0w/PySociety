@@ -1,4 +1,6 @@
-# PySociety
+# PySociety Game-o'-Life Model
+
+This model is useful for Economic and Labor modeling. Think SugarScape on Steroids!
 
 ## Glossary
 
@@ -58,7 +60,13 @@ Measures absolute identity distance, and selects based on that
 
 #### Input
 1. Receives a message from another human
-2. Gets assigned an outbound human
+2. Gets assigned an outbound human based on homophily
+3. Has 1kB of Sensory memory
+### Processing
+An attention mechanism neural net on all inputs
+### Output
+1. Message to homophilic individual
+2. An address to write long term memory
 3. 
 
 ### Reproduction model - Sexual
@@ -70,7 +78,7 @@ Increases as the system gets closer to capacity.
 
 
 
-
+### Suggestions from ChatGPT
 | Psychological Concept        | Parallel in Silicon Computing      |
 |------------------------------|-------------------------------------|
 | Memory                       | RAM (Random Access Memory)          |
