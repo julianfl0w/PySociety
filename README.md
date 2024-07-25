@@ -9,5 +9,7 @@ Communications: 64 bits outbound, 64 bits inbound
 Memory: 
 Short term memory is 16 iterations of inbound comms (RAM). 
 If the human is thinking, the inbound comes from its own memory
-Short term becomes long term (disk) at an address chosen by the human
+Short term becomes long term (disk) at an address chosen by the
+Hippocampus, which is modeled thusly
 
+# Each person
